@@ -1,10 +1,12 @@
 {
   "files": {
+    "main.css": "/react-movieList/static/css/main.31d6cfe0.css",
     "main.js": "/react-movieList/static/js/main.9491e333.js",
     "index.html": "/react-movieList/index.html",
     "main.9491e333.js.map": "/react-movieList/static/js/main.9491e333.js.map"
   },
   "entrypoints": [
+    "static/css/main.31d6cfe0.css",
     "static/js/main.9491e333.js"
   ]
 }
